@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">webview Interface</string>
+    <string name="hello">Hello World! ExternalAPITest Activity!</string>
+</resources>
